@@ -3,12 +3,12 @@
 Variables: selection, number, name, businessName
 
 Process:
-First, ask the user which type of customer they area.
+First, ask the user which type of customer they are.
 Store their answer into the variable selection
 While the selection value doesn't equal 3 (the value for quitting),continue in this loop.
 If the selection value is 1, ask the user to input a name and number.
-If two variables are sent through the print function, only the name and number is printed.
-If the selection value is 2, ask th user to input a name, number, and business name.
+If two variables are sent through the print function, only the name and number are printed.
+If the selection value is 2, ask the user to input a name, number, and business name.
 If three variables are sent to the print function, then these three variables are printed.
 
 */
